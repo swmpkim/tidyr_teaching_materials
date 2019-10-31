@@ -2,7 +2,15 @@
 
 Mainly this repo exists because I updated the 03-Tidy-Data pptx from https://github.com/rstudio-education/master-the-tidyverse-instructors to incorporate the pivot functions, and I don't really know where to put it so it's available to others :-)
 
-Here are all the places I made changes. I believe everything is correct and working (see "code checks.R" in this repo) but if you find any issues, let me know. 
+
+## Files  
+
+The minimally-modified version of the original is `03-Tidy-Data_updated-with-pivot-functions`, in both .pptx and .pdf formats. I made larger modifications for my own purposes; in case that's useful, it's provided as well: `shortened-and-modified-for-CERF2019_03_Tidy-Data`, also in both .pptx and .pdf. The full repository of materials for that training is available here: [https://github.com/swmpkim/2019_CERF](https://github.com/swmpkim/2019_CERF).
+
+
+## List of changes  
+
+Here are all the places I made changes in the minimally-modified file. I believe everything is correct and working (see `code checks.R` in this repo) but if you find any issues, let me know. 
 
 
 `gather()` to `pivot_longer()`:  
